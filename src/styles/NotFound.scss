@@ -1,0 +1,14 @@
+.box-error{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 89vh;
+  .imagen-error{
+    width: 50%;
+    }
+  .advice-error, .text-welcome{
+    margin: 20px auto;
+    text-align: center;
+  }
+}

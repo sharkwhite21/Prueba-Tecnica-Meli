@@ -1,0 +1,23 @@
+@import 'variables';
+
+.meli-breadcrum-list{
+  padding: 16px 0px;
+  @media (max-width: 425px) {
+    padding-left: 10px;
+  }
+  .meli-breadcrum-list-item{
+    color: $dark-minor;
+    padding-right: 5px;
+    &::after{
+      content: '>';
+      font-size: 15px;
+      padding-left: 7px;
+    }
+    &:last-child{
+      &::after{
+        content: ' ';
+        font-size: 0px;
+      }
+    }
+  }
+}

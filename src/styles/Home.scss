@@ -1,0 +1,8 @@
+@import './variables';
+
+.container-main{
+  display: flex;
+  justify-content: center;
+  background-color: $white-bone;
+  padding-top: 65px;
+}
