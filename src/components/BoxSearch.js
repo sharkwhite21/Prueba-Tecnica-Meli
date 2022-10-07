@@ -30,7 +30,9 @@ export default class BoxSearch extends React.Component {
     return (
       <div className="header">
         <div className="header_container">
+          <a href="/">
           <img src={Logo} className="header_logo" alt="logo Mercado Libre" />
+          </a>
           <div className="search">
             <input
               type="text"

@@ -18,16 +18,11 @@ Tenés que usar el siguiente stack tecnológico para construir la aplicación:
 ## 1. Clonando el respositorio
 In the project directory, you can run:
 
-git clone  https://github.com/sharkwhite21/prueba-tecnica-frontend-MELI.git
+git clone https://github.com/sharkwhite21/Prueba-Tecnica-Meli.git
 
-## 2. Navegacion Carpeta Master
-
-cd prueba-meli
-
-## 3. Instalacion de las dependencias
+## 2. Instalacion de las dependencias
 
 yarn install
-
 
 ## 4. Lanzando la aplicacion 
 
@@ -35,6 +30,6 @@ Para este punto necesitamos poder tener dos terminales abiertas, una para el ser
 
 yarn server
 
-Y otra terminar para lanzar la aplicacion:
+Y otra terminal para lanzar la aplicacion:
 
 yarn start
