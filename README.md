@@ -18,7 +18,7 @@ Tenés que usar el siguiente stack tecnológico para construir la aplicación:
 ## 1. Clonando el respositorio
 In the project directory, you can run:
 
-git clone  https://github.com/sharkwhite21/Prueba-Tecnica-Meli.git
+git clone  https://github.com/sharkwhite21/prueba-tecnica-frontend-MELI.git
 
 ## 2. Navegacion Carpeta Master
 
