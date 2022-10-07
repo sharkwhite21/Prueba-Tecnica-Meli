@@ -24,7 +24,7 @@ git clone https://github.com/sharkwhite21/Prueba-Tecnica-Meli.git
 
 yarn install
 
-## 4. Lanzando la aplicacion 
+## 3. Lanzando la aplicacion 
 
 Para este punto necesitamos poder tener dos terminales abiertas, una para el servidor el cual utilizaremos: 
 
